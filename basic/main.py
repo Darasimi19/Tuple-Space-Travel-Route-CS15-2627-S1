@@ -30,6 +30,6 @@ print(mission_route[5])
 
 if "Europa" in mission_route:
 
-    print("Europa has now become apart of this amazing mission route.")
+    print("Europa is apart of this amazing mission route.")
 
 
